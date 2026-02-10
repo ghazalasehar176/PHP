@@ -1,0 +1,3 @@
+read file function using php 1st line
+ fopen or fread or 2nd line
+  fclose function 3rd line
